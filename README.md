@@ -1,1 +1,4 @@
-Sierra Chart studies publicly available, let me know if there are any issues or if any features should be added
+# Sierra Chart Studies
+### DOM Interval Clear
+- Clears the the Recent and/or Current Traded Volume (Bid/Ask) on the DOM, based on the bar period of the DOM
+
